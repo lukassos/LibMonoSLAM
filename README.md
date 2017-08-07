@@ -8,15 +8,13 @@ There are plenty of different algorithms for MonoSLAM. The basic framework for t
 
 ###### Current status: 
 
-Only the particle filtering has been implemented as of now (reading pose estimates from GT)
+Only the particle filtering has been implemented as of now (reading pose estimates from groundtruth.txt)
 
 ******
 
-## How to run this code:
+## Environment Setup:
 
-### Environment Setup:
-
-#### You are going to need - 
+### Dependencies -
 
 1. Python 2.7.9 
 2. Some IDE for Python, preferably [Spyder IDE](https://pythonhosted.org/spyder/). 
@@ -29,12 +27,12 @@ Only the particle filtering has been implemented as of now (reading pose estimat
 * [OpenCV installation for Python in Ubuntu](https://www.raben.com/content/opencv-installation-ubuntu-1204)
 * [Python bindings for OpenCV in Debian](https://packages.debian.org/wheezy/python/python-opencv)
 
+******
 
-#### How to run - 
+## Run -
 
-Download the code and open it up in Spyder (or anything else). Fire up the *Driver.py* module.
-
-
+Download the code and open it up in Spyder (or anything else).
+Run the "Driver.py" script.
 
 
 ******
