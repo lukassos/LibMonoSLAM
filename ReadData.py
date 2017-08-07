@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import os
-import Parameters as param
+#import Params.Parameters as param  #not used
 
 
 class ReadData:

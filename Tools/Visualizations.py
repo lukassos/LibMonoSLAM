@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
-import numpy as np
-from mpl_toolkits.mplot3d import Axes3D
+# import numpy as np
 import matplotlib.pyplot as plt
-import Parameters as param
+from mpl_toolkits.mplot3d import Axes3D
+import Params.Parameters as param
 
 
 def plotPosition( x, y, z):

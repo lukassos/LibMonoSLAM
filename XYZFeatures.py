@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 import numpy as np
-import Parameters as param
-import transformations as trnsfrm
+import Params.Parameters as param
+import Tools.transformations as trnsfrm
 
 class XYZFeatures:
     

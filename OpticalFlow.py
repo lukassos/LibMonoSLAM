@@ -9,7 +9,9 @@ Image processing using OpenCV
 import cv2
 #import cv
 import numpy as np
-import Parameters as param
+
+
+import Params.Parameters as param
 
 
 class OpticalFlow:

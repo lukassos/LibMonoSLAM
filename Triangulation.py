@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import Parameters as param
+import Params.Parameters as param
 import numpy as np
 
 class Triangulation:
